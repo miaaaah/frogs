@@ -17,3 +17,7 @@
 13. more frogs
 
 # Newts are legit better
+
+- eye of newt is a more effective ingredient in a Witches potion than eye of frog 
+
+
